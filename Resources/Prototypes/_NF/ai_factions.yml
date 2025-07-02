@@ -28,6 +28,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -87,6 +88,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -121,6 +123,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -155,6 +158,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -189,6 +193,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -223,6 +228,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -257,6 +263,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -291,6 +298,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -325,6 +333,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -359,6 +368,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -393,6 +403,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -427,6 +438,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -461,6 +473,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -506,4 +519,5 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono

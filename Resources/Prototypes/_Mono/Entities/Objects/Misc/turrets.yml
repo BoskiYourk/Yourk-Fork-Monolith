@@ -30,3 +30,12 @@
   - type: NpcFactionMember
     factions:
     - TSFMCTurret
+
+- type: entity
+  parent: BaseWeaponBallisticTurret
+  id: WeaponTurretUSSP
+  suffix: USSP
+  components:
+  - type: NpcFactionMember
+    factions:
+    - USSPTurret
