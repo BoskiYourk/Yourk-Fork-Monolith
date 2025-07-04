@@ -22,6 +22,8 @@ shipyard-console-deed-label = Registered Ship:
 shipyard-console-appraisal-label = Shuttle Resale Value:{" "}
 shipyard-console-no-voucher-redemptions = All voucher redemptions have been used.
 shipyard-console-invalid-voucher-type = This voucher cannot be used at this console.
+shipyard-console-denied = You cannot purchase this ship at this time.
+shipyard-console-limited = There are too many active shuttles of this type, try again later!
 
 shipyard-console-contraband-onboard = Smuggled contraband detected onboard.
 shipyard-console-station-resources = Vital station resources detected onboard.
@@ -69,6 +71,11 @@ shipyard-console-class-Detective = Detective
 shipyard-console-class-Fighter = Fighter
 shipyard-console-class-Patrol = Patrol
 shipyard-console-class-Pursuit = Pursuit
+# Mono changes start
+shipyard-console-class-Corvette = Corvette
+shipyard-console-class-Frigate = Frigate
+shipyard-console-class-Destroyer = Destroyer
+shipyard-console-class-Cruiser = Cruiser
 
 shipyard-console-engine-All = All
 shipyard-console-engine-AME = AME
