@@ -1,5 +1,5 @@
 - type: entity
-  id: SuitStorageUsspL27
+  id: SuitStorageUssp
   parent: SuitStorageBase
   suffix: USSP L-27
   components:
