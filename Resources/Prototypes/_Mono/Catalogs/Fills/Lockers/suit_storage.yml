@@ -1,5 +1,5 @@
 - type: entity
-  id: SuitStorageUssp
+  id: SuitStorageUsspL27
   parent: SuitStorageBase
   suffix: USSP L-27
   components:
@@ -30,3 +30,19 @@
         - id: ClothingShoesBootsMagSecurity
   - type: AccessReader
     access: [["USSPCommand"]]
+
+- type: entity
+  id: SuitStorageUsspM10
+  parent: SuitStorageBase
+  suffix: USSP M-10
+  components:
+  - type: StorageFill
+    contents:
+        - id: OxygenTankFilled
+        - id: NitrogenTankFilled
+        - id: ClothingOuterHardsuitUsspM10
+        - id: ClothingMaskGasSecurity
+        - id: JetpackMiniFilled
+        - id: ClothingShoesBootsMagSecurity
+  - type: AccessReader
+    access: [["USSP"]]
