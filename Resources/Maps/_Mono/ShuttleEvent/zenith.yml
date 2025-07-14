@@ -12,6 +12,8 @@
 # SPDX-FileCopyrightText: 2025 Redrover1760
 # SPDX-FileCopyrightText: 2025 RikuTheKiller
 # SPDX-FileCopyrightText: 2025 Whatstone
+# SPDX-FileCopyrightText: 2025 ark1368
+# SPDX-FileCopyrightText: 2025 significant harassment
 # SPDX-FileCopyrightText: 2025 starch
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
@@ -235,7 +237,6 @@ entities:
       shape: Ring
       scale: 0
       radarColor: '#00DEFEFF'
-    - type: CircularShieldRadar
   - uid: 3
     components:
     - type: MetaData
@@ -248,7 +249,6 @@ entities:
       shape: Ring
       scale: 0
       radarColor: '#00DEFEFF'
-    - type: CircularShieldRadar
   - uid: 4
     components:
     - type: MetaData
@@ -261,7 +261,6 @@ entities:
       shape: Ring
       scale: 0
       radarColor: '#00DEFEFF'
-    - type: CircularShieldRadar
   - uid: 5
     components:
     - type: MetaData
@@ -274,7 +273,6 @@ entities:
       shape: Ring
       scale: 0
       radarColor: '#00DEFEFF'
-    - type: CircularShieldRadar
   - uid: 6
     components:
     - type: MetaData
@@ -287,7 +285,6 @@ entities:
       shape: Ring
       scale: 0
       radarColor: '#00DEFEFF'
-    - type: CircularShieldRadar
   - uid: 7
     components:
     - type: MetaData
@@ -300,7 +297,6 @@ entities:
       shape: Ring
       scale: 0
       radarColor: '#00DEFEFF'
-    - type: CircularShieldRadar
   - uid: 8
     components:
     - type: MetaData
@@ -313,7 +309,6 @@ entities:
       shape: Ring
       scale: 0
       radarColor: '#00DEFEFF'
-    - type: CircularShieldRadar
   - uid: 314
     components:
     - type: MetaData
@@ -326,7 +321,6 @@ entities:
       shape: Ring
       scale: 0
       radarColor: '#00DEFEFF'
-    - type: CircularShieldRadar
 - proto: AirlockHatch
   entities:
   - uid: 9
@@ -1930,8 +1924,6 @@ entities:
       parent: 1
     - type: ApcPowerReceiver
       powerLoad: 0
-    - type: CircularShield
-      width: 6.283185307179586 rad
     - type: Fixtures
       fixtures:
         fix1:
@@ -1964,19 +1956,6 @@ entities:
           hard: False
           restitution: 0
           friction: 0.4
-- proto: CircularShieldConsole
-  entities:
-  - uid: 315
-    components:
-    - type: Transform
-      pos: -1.5,4.5
-      parent: 1
-    - type: ApcPowerReceiver
-      powerLoad: 5
-    - type: DeviceLinkSource
-      linkedPorts:
-        313:
-        - CircularShieldConsoleSender: CircularShieldConsoleReceiver
 - proto: ComputerGunneryConsole
   entities:
   - uid: 316
@@ -2174,7 +2153,7 @@ entities:
       rot: 1.5707963267948966 rad
       pos: -1.5,-13.5
       parent: 1
-- proto: GunneryServerHigh
+- proto: GunneryServerUltra
   entities:
   - uid: 347
     components:
