@@ -4531,8 +4531,6 @@ entities:
     - type: ShipGridLock
       locked: False
   - uid: 3107
-    mapInit: true
-    paused: true
     components:
     - type: MetaData
       name: solution - steel
@@ -4553,8 +4551,6 @@ entities:
       containerName: steel
       container: 3106
   - uid: 3109
-    mapInit: true
-    paused: true
     components:
     - type: MetaData
       name: solution - plasteel
@@ -48600,8 +48596,6 @@ entities:
 - proto: SheetPlasteel10
   entities:
   - uid: 3108
-    mapInit: true
-    paused: true
     components:
     - type: Transform
       pos: 51.668934,67.4934
@@ -48619,8 +48613,6 @@ entities:
 - proto: SheetSteel
   entities:
   - uid: 3106
-    mapInit: true
-    paused: true
     components:
     - type: Transform
       pos: 51.424076,67.65318
