@@ -33,7 +33,7 @@
   mapPath: /Maps/_Mono/POI/usspbaikal.yml
   minPlayers: 0
   stations:
-    Baikal:
+    USSPBaikal:
       stationProto: RecordsFrontierOutpostCargo
       components:
         - type: StationNameSetup
