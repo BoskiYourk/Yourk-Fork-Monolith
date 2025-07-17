@@ -1,7 +1,3 @@
-# SPDX-FileCopyrightText: 2025 BoskiYourk
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
-
 station-beacon-ussp-shipyard = USSP Shipyard
 station-beacon-ussp-docks = USSP Docks
 station-beacon-ussp-control = USSP Control Room
