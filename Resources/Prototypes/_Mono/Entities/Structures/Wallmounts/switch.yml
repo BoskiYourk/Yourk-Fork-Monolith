@@ -1,0 +1,9 @@
+# Lockable buttons
+
+- type: entity
+  id: LockableButtonUSSP
+  suffix: USSP
+  parent: LockableButton
+  components:
+  - type: AccessReader
+    access: [["USSP"]]
