@@ -9,21 +9,21 @@
 # Notes:
 # neutral station for rogues & contractors
 - type: pointOfInterest
-  id: Baikal
+  id: USSPBaikal
   parent: BasePOI
   name: 'Baikal Station'
   minimumDistance: 10650
   maximumDistance: 12400
   spawnGroup: Required
-  gridPath: /Maps/_Mono/POI/baikal.yml
+  gridPath: /Maps/_Mono/POI/usspbaikal.yml
   addComponents:
   - type: IFF
     color: "#ccaa55"
 
 - type: gameMap
-  id: Baikal
+  id: USSPBaikal
   mapName: 'Baikal Station'
-  mapPath: /Maps/_Mono/POI/baikal.yml
+  mapPath: /Maps/_Mono/POI/usspbaikal.yml
   minPlayers: 0
   stations:
     Baikal:
