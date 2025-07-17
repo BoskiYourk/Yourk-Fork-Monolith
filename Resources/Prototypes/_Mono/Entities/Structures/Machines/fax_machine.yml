@@ -5,7 +5,7 @@
   suffix: POI, USSP
   components:
   - type: FaxMachine
-    name: "USSP Station Camelot"
+    name: "USSP Station Baikal"
 
 - type: entity
   parent: [BaseStructureDisableToolUse, FaxMachineBase]
@@ -13,4 +13,4 @@
   suffix: POI, USSP Commisar
   components:
   - type: FaxMachine
-    name: "USSP Station Camelot Commisar"
+    name: "USSP Station Baikal Commisar"
