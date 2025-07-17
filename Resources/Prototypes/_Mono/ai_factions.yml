@@ -20,6 +20,7 @@
   - SiliconsExpeditionNF # Frontier
   - AberrantFleshExpeditionNF # Frontier
   - USSP
+  - USSPTurret
 
 - type: npcFaction
   id: TSFMCTurret
@@ -44,9 +45,40 @@
   - AberrantFleshExpeditionNF # Frontier
   - PetsNT
   - USSP
+  - USSPTurret
 
 - type: npcFaction
   id: USSP
+  hostile:
+  ## SS14 factions
+  - Dragon
+  - Mouse
+  - Passive
+  - PetsNT
+  - SimpleHostile
+  - Syndicate
+  - Xeno
+  - Zombie
+  - Wizard
+  ## Frontier Factions
+  - SyndicateNF
+  - WizFedFaction
+  - BloodCultNF
+  - PirateNF
+  - ExplorersExpeditionNF
+  - ArtifactConstruct
+  - StreetGangNF
+  - DinosaursNF
+  - MercenariesExpeditionNF
+  - SiliconsExpeditionNF
+  - AberrantFleshExpeditionNF
+  - ContrabandClothing
+  - ContrabandDetection
+  - TSFMC # Mono
+  - TSFMCTurret # Mono
+
+- type: npcFaction
+  id: USSPTurret
   hostile:
   ## SS14 factions
   - Dragon

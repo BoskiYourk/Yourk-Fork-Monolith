@@ -24,6 +24,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -49,6 +50,7 @@
   - AberrantFleshExpeditionNF # Frontier
   - ContrabandClothing # Frontier
   - USSP # Mono
+  - USSPTurret # Mono
 
 - type: npcFaction
   id: Mouse
@@ -96,6 +98,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -129,6 +132,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -157,6 +161,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -186,6 +191,7 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -231,6 +237,7 @@
   - TSFMCTurret # Mono
   - PirateNF # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
 
 - type: npcFaction
@@ -263,4 +270,5 @@
   - TSFMC # Mono
   - TSFMCTurret # Mono
   - USSP # Mono
+  - USSPTurret # Mono
   - MD # Mono
