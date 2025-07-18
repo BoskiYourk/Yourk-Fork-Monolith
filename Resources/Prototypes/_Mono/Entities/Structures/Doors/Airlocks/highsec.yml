@@ -18,8 +18,8 @@
 
 - type: entity
   parent: HighSecDoor
-  id: HighSecUSSPSecureLocked
-  suffix: USSP Secure, Locked
+  id: HighSecUSSPLocked
+  suffix: USSP, Locked
   components:
   - type: ContainerFill
     containers:
