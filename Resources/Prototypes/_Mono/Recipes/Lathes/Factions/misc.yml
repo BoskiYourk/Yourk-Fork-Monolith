@@ -167,3 +167,22 @@
   materials:
     Steel: 100
     Plasma: 200
+
+- type: latheRecipe
+  parent: BaseToolRecipe
+  id: GrenadeShrapnelUSSP
+  result: GrenadeShrapnel
+  completetime: 2
+  materials:
+    Steel: 500
+    Plasteel: 200
+
+- type: latheRecipe
+  parent: BaseToolRecipe
+  id: GrenadeIncendiaryUSSP
+  result: GrenadeIncendiary
+  completetime: 2
+  materials:
+    Steel: 500
+    Plastic: 400
+    Plasma: 200

@@ -240,3 +240,13 @@
     Plasteel: 3000
     Wood: 1000
     Uranium: 1500
+
+- type: latheRecipe
+  parent: BaseWeaponRecipeLong
+  id: WeaponShotgunBigLeadyUSSP
+  result: WeaponShotgunBigLeady
+  materials:
+    Steel: 2500
+    Plasteel: 2000
+    Plastic: 1500
+    Wood: 1000

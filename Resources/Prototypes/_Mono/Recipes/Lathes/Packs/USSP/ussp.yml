@@ -11,12 +11,15 @@
   - WeaponDP29USSP
   - WeaponRifleSVSUSSP
   - WeaponSniperMosinUSSP
+  - WeaponShotgunBigLeadyUSSP
 
 - type: latheRecipePack
   id: MonoUSSPMiscDynamic
   recipes:
   - SeismicChargeUSSP
   - TearGasGrenadeUSSP
+  - GrenadeShrapnelUSSP
+  - GrenadeIncendiaryUSSP
 
 - type: latheRecipePack
   id: MonoUSSPArmorDynamic

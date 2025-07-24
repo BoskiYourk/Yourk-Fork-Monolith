@@ -51,6 +51,11 @@
   recipeUnlocks:
   - WeaponDP29USSP
   - MagazineDP29
+  - WeaponShotgunBigLeadyUSSP
+  - AmmoBox23x75mmBuckshot
+  - AmmoBox23x75mmBeanbag
+  - AmmoBox23x75mmSlug
+  - AmmoBox23x75mmDozd
   technologyPrerequisites:
   - UsspMediumGuns
 
@@ -66,5 +71,6 @@
   recipeUnlocks:
   - AmmoBox7.62x39mmSubsonic
   - AmmoBox45_magnumAP
+  - AmmoBox23x75mmFlashbang
   technologyPrerequisites:
   - UsspAdvancedGuns
